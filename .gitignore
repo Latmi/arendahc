@@ -1,5 +1,0 @@
-local/templates/.default
-local/templates/ARENDA_HC_test/node_modules
-.htaccess
-.htaccess.restore
-urlrewrite.php
